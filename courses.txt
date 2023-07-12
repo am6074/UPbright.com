@@ -1,0 +1,9 @@
+HTML + CSS - This course acts as an introduction to basic web desgning, an indispensable skill at present times. your child will be able to design, implement and publish websites after this course
+Beginner level Python Programming - Programming languages acts as intermediates between us and a computer. With this course, your child will beintroduced to the basic concepts and a stable foundation to Python.
+Mathematics using Python and Matlab - This course deals with solving mathematical problems with ease by using MatLab and Python.   
+Microsoft Office Suite - As office skills are highly sought out for, your child can learn to use Word, Excel, PowerPoint and more skills for great presentation and documentation skills
+Electronic Circuits with Arduino - Electronic circuits with Arduino are like magical pathways that bring your ideas to life. With a few simple connections and code, children can create their own interactive gadgets and explore the exciting world of technology!
+Object Oriented Python Programming - Children will be able to analyse and process data with this course on Python. This course will lay a solid foundation to data science.
+Musical Instruments - Discover the joy of making music come alive as children embark on a journey of learning to play musical instruments, unlocking their creativity and self-expression.
+Graphical Designing - Unleash your children's creativity by designing their own vibrant world through graphical designing.
+Methods of Data Analysis - Methods of data analysis are like detective tools that help children uncover hidden patterns and insights from information, enabling them to solve puzzles and make sense of the world around them. By using methods of data analysis, children can become scientific investigators, exploring data sets to find answers, make predictions, and make informed decisions.
